@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { Mail, Github, Linkedin } from "lucide-react";
+import { Mail, Linkedin } from "lucide-react";
 
 const ContactSection = () => {
   const sectionRef = useRef<HTMLElement>(null);

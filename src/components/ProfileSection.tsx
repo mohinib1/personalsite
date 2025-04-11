@@ -32,7 +32,7 @@ const ProfileSection = () => {
             <h2 className="text-xl md:text-2xl text-gray-600 mb-6">UBC</h2>
 
             <p className="text-gray-700 mb-6">
-              I'm a student at UBC with a passion for full-stack development and machine learning. 
+              I am a student at UBC with a passion for full-stack development and machine learning. 
               I love building clean, user focused web apps and exploring how intelligent systems can solve real world problems.
               Always learning, always coding.
             </p>

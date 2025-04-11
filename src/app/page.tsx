@@ -6,7 +6,6 @@ import ProjectsSection from "@/components/ProjectsSection";
 import ExperienceSection from "@/components/ExperienceSection";
 import SkillsSection from "@/components/SkillsSection";
 import ContactSection from "@/components/ContactSection";
-import Footer from "@/components/Footer";
 import { ArrowUp } from "lucide-react";
 
 const Index = () => {
