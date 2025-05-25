@@ -50,7 +50,7 @@ const ExperienceSection = () => {
       company: "Radiair",
       period: "Jan 2024 - May 2024",
       description: [
-        "Built a scalable seat booking microservice, leveraging Golang for high performance microservices to handle computationally intense tasks.",
+        "Built a scalable seat booking microservice, leveraging Flask for high performance microservices to handle computationally intense tasks.",
         "Used Next.js for seat reservation RESTful APIs that handle seat merges and ticket data flow to reduce load times.",
         "Integrated the Amadeus API, enabling real-time seat updates and pricing information across microservices, including advanced error handling, circuit breakers, and rate-limiting mechanisms.",
         "Implemented a front-end using Next.js and Tailwind CSS, focusing on optimizations to streamline development and improve user engagement.",
