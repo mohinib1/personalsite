@@ -57,17 +57,6 @@ const ExperienceSection = () => {
         "Reduced route resolution time by ~40% through careful refactoring and performance tuning."
       ]
     },
-    {
-      title: "Software Engineer Intern",
-      company: "Tech Bytes",
-      period: "May 2022 - Sept 2022",
-      description: [
-        "Implemented efficient data handling with SQL to support real-time data retrieval and data validations from 1000 users.",
-        "Achieved an average 40% improvement in query performance by optimizing indexes and rewriting stored procedures.",
-        "Integrated user authentication and role-based access control with JWT tokens, tied into Azure DevOps pipelines.",
-        "Collaborated with the front-end team to refine UI/UX for a seamless onboarding experience, employing TDD with NUnit."
-      ]
-    }
   ];
 
   return (
